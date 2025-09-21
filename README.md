@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi there 👋, I'm SHIVARAM M
 
-<!--
-**shivaram-m-cse/shivaram-m-cse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science and Engineering Student** | Passionate about Fullstack Development & AI
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Skills & Tech Stack
+
+- **Frontend:** React.js
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Languages:** Python, C, C++
+- **Other Interests:** Generative AI, MERN Stack Development
+
+---
+
+## 🎓 Education
+
+- **Masters in Computer Science and Engineering**
+
+---
+
+## 💼 Current Role
+
+- **Student** | Actively exploring Fullstack Development and AI-based projects
+
+---
+
+## 🏆 Achievements
+
+- Building MERN stack projects integrating Generative AI
+- Contributed to research projects in AI & Computer Vision
+
+---
+
+## 🌐 Connect with Me
+
+[LinkedIn](https://www.linkedin.com/in/shivaram-m-cse)
+
+---
+
+## 🤖 Fun Fact
+
+*"AI will take our Jobs"* 😅
+
+---
+
+## 📊 Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivaram-m-cse&layout=compact&theme=radical)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Shivaram-CSE)
