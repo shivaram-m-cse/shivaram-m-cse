@@ -40,3 +40,31 @@
 ---
 
 ## 🏆 Achievements
+
+- Building MERN stack projects integrating Generative AI  
+- Contributed to research projects in AI & Computer Vision  
+
+---
+
+## 🌐 Connect with Me
+
+[LinkedIn](https://www.linkedin.com/in/shivaram-m-cse)  
+
+---
+
+## 🤖 Fun Fact
+
+*"AI will take our Jobs"* 😅  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivaram-m&show_icons=true&theme=dark&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivaram-m-cse&layout=compact&theme=dark&hide_border=true)  
+
+---
+
+## 💻 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Shivaram-cse?theme=dark)
